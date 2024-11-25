@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Srivastava</h1>
-<h3 align="center">A aspiring Electronics Engineering from India</h3>
+<h3 align="center">An Aspiring Electronics Engineering from India</h3>
 
 - 📫 How to reach me **akshatsri2121@gmail.com**
 
